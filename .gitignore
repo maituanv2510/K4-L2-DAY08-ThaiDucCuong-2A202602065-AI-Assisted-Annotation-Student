@@ -7,5 +7,10 @@ runs/
 *.onnx
 day8_data.zip
 day8_round*_out.zip
+day8_round*.zip
+day8_round*_out/
+day8_round*/
 to_label/
+_cvat_import/
 .agent/
+.kilo/
