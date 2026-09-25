@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,xe tối gần mép trái,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+2,frame_0182.jpg,xe tối ở trên cùng góc phải,added,thấy đèn xe và thân xe rõ viền đủ ranh giới theo GUIDELINE_LABEL.md
+3,frame_0187.jpg,xe tối ở phía trên góc phải,added, thấy xe và thân ranh giới rõ ràng theo GUIDELINE_LABEL.md
+4,frame_0270.jpg,xe tối ở phía nửa trên ảnh,fixed, không rõ ranh giới xe hay thân xe theo GUIDLINE_LABEL.md
